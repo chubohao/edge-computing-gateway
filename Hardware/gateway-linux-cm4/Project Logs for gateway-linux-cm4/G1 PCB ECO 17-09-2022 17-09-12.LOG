@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=SSTX2_N Pin=C91-1
+Removed Pin From Net: NetName=SSTX2_P Pin=C92-1
+Removed Pin From Net: NetName=SSTX1_N Pin=C100-1
+Removed Pin From Net: NetName=SSTX1_P Pin=C101-1
+Removed Pin From Net: NetName=USB2D2_N Pin=U38-11
+Removed Pin From Net: NetName=USB2D2_P Pin=U38-12
+Removed Pin From Net: NetName=USB2D2_P Pin=U41-2
+Removed Pin From Net: NetName=USB2D2_N Pin=U41-3
+Removed Pin From Net: NetName=SSRX2_N Pin=U42-1
+Removed Pin From Net: NetName=SSRX2_P Pin=U42-2
+Removed Pin From Net: NetName=GND Pin=U42-3
+Removed Pin From Net: NetName=GND Pin=U42-8
+Removed Pin From Net: NetName=SSRX1_N Pin=U43-4
+Removed Pin From Net: NetName=SSRX1_P Pin=U43-5
+Removed Pin From Net: NetName=USB2D1_P Pin=U43-13
+Removed Pin From Net: NetName=USB2D1_N Pin=U43-14
+Removed Member From Class: ClassName=G1-CM4 Member=C91
+Removed Member From Class: ClassName=G1-CM4 Member=C92
+Removed Member From Class: ClassName=G1-CM4 Member=U42
+Added Pin To Net: NetName=SSTX2_N Pin=C100-1
+Added Pin To Net: NetName=SSTX2_P Pin=C101-1
+Added Pin To Net: NetName=SSRX2_N Pin=U43-4
+Added Pin To Net: NetName=SSRX2_P Pin=U43-5
+Added Pin To Net: NetName=USB2D2_P Pin=U43-13
+Added Pin To Net: NetName=USB2D2_N Pin=U43-14
+Added Pin To Net: NetName=USB2D4_N Pin=U33-17
+Added Pin To Net: NetName=USB2D4_N Pin=U38-11
+Added Pin To Net: NetName=USB2D4_N Pin=U41-3
+Added Net: Name=USB2D4_N
+Added Pin To Net: NetName=USB2D4_P Pin=U33-16
+Added Pin To Net: NetName=USB2D4_P Pin=U38-12
+Added Pin To Net: NetName=USB2D4_P Pin=U41-2
+Added Net: Name=USB2D4_P
