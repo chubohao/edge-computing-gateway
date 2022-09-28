@@ -1,0 +1,57 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\TUL\My Drive\Personal Data\Project\H Gateway\gateway-linux-cm4\hardware\gateway-linux-cm4\G1.PcbDoc
+Date     : 28/09/2022
+Time     : 09:32:47
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=8mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=1000mil) (InDifferentialPairClass('100'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=4mil) (InDifferentialPairClass('90'))
+   Violation between Matched Net Lengths: Between Net Coral_RX_N And Net Coral_RX_P Actual Difference against Coral_RX_P is: 6mil, Tolerance : 4mil. 
+Rule Violations :1
+
+Processing Rule : Matched Lengths(Tolerance=5mil) (InDifferentialPairClass('100'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=3000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 1
+Time Elapsed        : 00:00:03

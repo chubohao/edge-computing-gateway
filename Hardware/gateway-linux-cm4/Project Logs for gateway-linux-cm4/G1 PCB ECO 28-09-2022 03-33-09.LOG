@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LORA_LIG Pin=U24-3
+Change Component Designator: OldDesignator=4G NewDesignator=U4
+Change Component Designator: OldDesignator=433 NewDesignator=U6
+Change Component Designator: OldDesignator=GPS NewDesignator=U7
+Change Component Designator: OldDesignator=LORA NewDesignator=U3
+Change Component Designator: OldDesignator=WIFI NewDesignator=U1
+Change Component Designator: OldDesignator=ZIGB NewDesignator=U5
+Added Pin To Net: NetName=LORA_LIG Pin=U24-46
+Added Member To Class: ClassName=G2-PMS Member=Component C112 100nF 0805
