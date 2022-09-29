@@ -1,2 +1,8 @@
+.git/
+Desktop.ini
+
+/assets/videos/*
+!/assets/videos/test.mp4
+
 /hardware/documents/*
-!/hardware/documents/cm4-datasheet.pdf
+!/hardware/documents/CM4/
