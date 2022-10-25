@@ -10,6 +10,7 @@
 ![functions](/assets/images/functions.png "Magic Gardens")
 
 
+
 ## **HARDWARE**
 
 ![gateway](/assets/images/gateway.jpg "Magic Gardens")
